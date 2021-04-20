@@ -1,3 +1,1 @@
-# XCFramework
-
-Testing repository
+Checksum = b5209f41e0cbf9df411e5701397bf995b648b2fb4d009a45a124e89a241af300
