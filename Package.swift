@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "KotlinLibrary",
             url: "https://github.com/PaGromist/publish-xcframework/blob/master/KotlinLibrary.xcframework.zip",
-            checksum: "86decb3c496b51be913449479fd1a26ca8506cc56c00047ec125454be0922a4a"
+            checksum: "d657e207146d35473b7494ac8e6fcb0f89915547b37764c384b1ab1c7fc0ac4d"
         ),
     ]
 )
